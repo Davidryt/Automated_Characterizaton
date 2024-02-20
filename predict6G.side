@@ -1,0 +1,205 @@
+{
+  "id": "66d04d1d-5600-4156-a2d5-6ba1d293cd78",
+  "version": "2.0",
+  "name": "predict6G",
+  "url": "http://163.117.140.125",
+  "tests": [{
+    "id": "77a8f68f-b7fc-4b12-b4a0-70c8802be8e6",
+    "name": "predict",
+    "commands": [{
+      "id": "7396029b-2c86-4643-a30b-6b2f2dcfadb7",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "480decf0-86d8-4607-b830-849c4da2e226",
+      "comment": "",
+      "command": "pause",
+      "target": "10000",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "ef950dd4-5097-4fd8-8ed1-c349d4192503",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1427x1016",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "5abc1a34-ab1e-4cbd-82a3-72b258cc8eda",
+      "comment": "",
+      "command": "pause",
+      "target": "2000",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0aa7c0cd-6675-4aad-ba84-8e473f33013f",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//span[contains(.,'TSN Lab')]",
+      "targets": [
+        ["css=.bigger:nth-child(3) #max_em", "css:finder"],
+        ["xpath=(//span[@id='max_em'])[2]", "xpath:attributes"],
+        ["xpath=//ul[@id='navbar_header']/li[3]/a/span[2]", "xpath:idRelative"],
+        ["xpath=//li[3]/a/span[2]", "xpath:position"],
+        ["xpath=//span[contains(.,'TSN Lab')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "d30fe69a-a40f-472e-a19b-d5f84673c7db",
+      "comment": "",
+      "command": "pause",
+      "target": "15000",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "cd095fcf-2136-4fc3-a9ba-e94a848a1b47",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//span[contains(.,'GENERAL CONTROL')]",
+      "targets": [
+        ["css=.unappend:nth-child(7) > span", "css:finder"],
+        ["xpath=//ul[@id='lefter']/li[7]/span", "xpath:idRelative"],
+        ["xpath=//li[7]/span", "xpath:position"],
+        ["xpath=//span[contains(.,'GENERAL CONTROL')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "32f26ce4-9e49-49d1-9499-edf3b5940cfd",
+      "comment": "",
+      "command": "pause",
+      "target": "15000",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "1e5819fe-643e-40c7-8bfe-59dd5e22e324",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//button[contains(.,'Restart all statistics and counters  ')]",
+      "targets": [
+        ["css=.btn-a:nth-child(1)", "css:finder"],
+        ["xpath=//button[@onclick='resetAllStatistics()']", "xpath:attributes"],
+        ["xpath=//span[@id='where-right2']/button", "xpath:idRelative"],
+        ["xpath=//span[3]/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Restart all statistics and counters  ')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "2ab94d78-f61e-40d9-8aa3-a55a47349ec4",
+      "comment": "",
+      "command": "pause",
+      "target": "15000",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0a4268b2-9013-4fa5-9027-6358700b8ba4",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//table[@id='table_labCtrl_LABTOOL-TAP0']/tbody/tr[2]/td[2]/input",
+      "targets": [
+        ["id=frame_timestamp_enable", "id"],
+        ["name=frame_timestamp_enable", "name"],
+        ["css=#table_labCtrl_LABTOOL-TAP0 #frame_timestamp_enable", "css:finder"],
+        ["xpath=//input[@id='frame_timestamp_enable']", "xpath:attributes"],
+        ["xpath=//table[@id='table_labCtrl_LABTOOL-TAP0']/tbody/tr[2]/td[2]/input", "xpath:idRelative"],
+        ["xpath=//tr[2]/td[2]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "5f7f9163-3124-479a-927e-0635fe57899e",
+      "comment": "",
+      "command": "pause",
+      "target": "7000",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0321558d-f06d-42cb-8adb-971ea4e64199",
+      "comment": "",
+      "command": "assertChecked",
+      "target": "xpath=//table[@id='table_labCtrl_LABTOOL-TAP0']/tbody/tr[2]/td[2]/input",
+      "targets": [],
+      "value": "True"
+    }, {
+      "id": "c471a5fb-c491-448e-b228-6a8722298263",
+      "comment": "",
+      "command": "click",
+      "target": "css=#table_labCtrl_LABTOOL-TAP1 #frame_timestamp_enable",
+      "targets": [
+        ["css=#table_labCtrl_LABTOOL-TAP1 #frame_timestamp_enable", "css:finder"],
+        ["xpath=(//input[@id='frame_timestamp_enable'])[2]", "xpath:attributes"],
+        ["xpath=//table[@id='table_labCtrl_LABTOOL-TAP1']/tbody/tr[2]/td[2]/input", "xpath:idRelative"],
+        ["xpath=//section[2]/div/div[2]/div/table/tbody/tr[2]/td[2]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "9c2e434e-66a3-40a4-b310-cd843e7045e9",
+      "comment": "",
+      "command": "pause",
+      "target": "10000",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "97a3fccc-d1f3-4c8b-ab40-483b1f3008ea",
+      "comment": "",
+      "command": "click",
+      "target": "css=.btn-a:nth-child(2)",
+      "targets": [
+        ["css=.btn-a:nth-child(2)", "css:finder"],
+        ["xpath=//button[@onclick='newCheckConfAll([\"labCtrl\"])']", "xpath:attributes"],
+        ["xpath=//span[@id='where-right2']/button[2]", "xpath:idRelative"],
+        ["xpath=//button[2]", "xpath:position"],
+        ["xpath=//button[contains(.,'Apply changes  ')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "5b95f536-b935-4a47-8b98-aad0bfeed5cf",
+      "comment": "",
+      "command": "pause",
+      "target": "10000",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0e52664d-5ed7-497c-874e-e9014201251d",
+      "comment": "",
+      "command": "assertAlert",
+      "target": "Changes successfully applied.",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "2ff47afb-d647-4567-b0ad-b3d2726bad29",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//button[@onclick=\"downloadLabtoolFrameStampCsv(this,'LABTOOL-TAP0')\"]",
+      "targets": [
+        ["xpath=//button[@onclick=\"downloadLabtoolFrameStampCsv(this,'LABTOOL-TAP0')\"]", "xpath:attributes"],
+        ["xpath=(//span[@id='actBtn_labCtrl_LABTOOL-TAP0']/button)[2]", "xpath:idRelative"],
+        ["xpath=//span[2]/button", "xpath:position"],
+        ["xpath=//button[contains(.,'  Download capture file')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "0ac15d79-d253-4635-9508-7f3921a1b556",
+      "comment": "",
+      "command": "click",
+      "target": "xpath=//button[@onclick=\"downloadLabtoolFrameStampCsv(this,'LABTOOL-TAP1')\"]",
+      "targets": [
+        ["xpath=//button[@onclick=\"downloadLabtoolFrameStampCsv(this,'LABTOOL-TAP1')\"]", "xpath:attributes"],
+        ["xpath=(//span[@id='actBtn_labCtrl_LABTOOL-TAP1']/button)[2]", "xpath:idRelative"],
+        ["xpath=//section[2]/div/div[3]/span[2]/button", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "fb042703-c32f-4427-86bf-7f43bc88b886",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": []
+  }],
+  "urls": ["http://163.117.140.125/"],
+  "plugins": []
+}

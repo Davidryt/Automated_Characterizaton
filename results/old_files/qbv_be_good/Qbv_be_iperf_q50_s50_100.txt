@@ -1,0 +1,40 @@
+-----------------------------------------------------------
+Server listening on 5002
+-----------------------------------------------------------
+Accepted connection from 10.0.1.1, port 40326
+[  6] local 10.0.1.7 port 5002 connected to 10.0.1.1 port 10002
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  6]   0.00-10.00  sec  62.5 MBytes  52.4 Mbits/sec  0.311 ms  40946/86176 (48%)  
+[  6]  10.00-20.00  sec  62.6 MBytes  52.5 Mbits/sec  0.362 ms  41024/86325 (48%)  
+[  6]  20.00-30.00  sec  62.6 MBytes  52.5 Mbits/sec  0.243 ms  41024/86326 (48%)  
+[  6]  30.00-40.00  sec  62.6 MBytes  52.5 Mbits/sec  0.294 ms  41024/86326 (48%)  
+[  6]  40.00-50.00  sec  62.6 MBytes  52.5 Mbits/sec  0.346 ms  41024/86326 (48%)  
+[  6]  50.00-60.00  sec  62.6 MBytes  52.5 Mbits/sec  0.298 ms  41024/86325 (48%)  
+[  6]  60.00-70.00  sec  62.6 MBytes  52.5 Mbits/sec  0.281 ms  41020/86321 (48%)  
+[  6]  70.00-80.00  sec  62.6 MBytes  52.5 Mbits/sec  0.339 ms  41028/86331 (48%)  
+[  6]  80.00-90.00  sec  62.6 MBytes  52.5 Mbits/sec  0.365 ms  41024/86326 (48%)  
+[  6]  90.00-100.00 sec  62.6 MBytes  52.5 Mbits/sec  0.307 ms  41020/86321 (48%)  
+[  6] 100.00-110.00 sec  62.6 MBytes  52.5 Mbits/sec  0.380 ms  41028/86331 (48%)  
+[  6] 110.00-120.00 sec  62.6 MBytes  52.5 Mbits/sec  0.283 ms  41019/86320 (48%)  
+[  6] 120.00-130.00 sec  62.6 MBytes  52.5 Mbits/sec  0.394 ms  41023/86324 (48%)  
+[  6] 130.00-140.00 sec  62.6 MBytes  52.5 Mbits/sec  0.338 ms  41024/86326 (48%)  
+[  6] 140.00-150.00 sec  62.6 MBytes  52.5 Mbits/sec  0.312 ms  41030/86326 (48%)  
+[  6] 150.00-160.00 sec  62.6 MBytes  52.5 Mbits/sec  0.349 ms  41025/86327 (48%)  
+[  6] 160.00-170.00 sec  62.6 MBytes  52.5 Mbits/sec  0.353 ms  41024/86326 (48%)  
+[  6] 170.00-180.00 sec  62.6 MBytes  52.5 Mbits/sec  0.357 ms  41024/86327 (48%)  
+[  6] 180.00-190.00 sec  62.6 MBytes  52.5 Mbits/sec  0.333 ms  41023/86325 (48%)  
+[  6] 190.00-200.00 sec  62.6 MBytes  52.5 Mbits/sec  0.296 ms  41024/86326 (48%)  
+[  6] 200.00-210.00 sec  62.6 MBytes  52.5 Mbits/sec  0.324 ms  41023/86325 (48%)  
+[  6] 210.00-220.00 sec  62.6 MBytes  52.5 Mbits/sec  0.320 ms  41030/86326 (48%)  
+[  6] 220.00-230.00 sec  62.6 MBytes  52.5 Mbits/sec  0.241 ms  41025/86327 (48%)  
+[  6] 230.00-240.00 sec  62.6 MBytes  52.5 Mbits/sec  0.335 ms  41023/86325 (48%)  
+[  6] 240.00-250.00 sec  62.6 MBytes  52.5 Mbits/sec  0.330 ms  41024/86326 (48%)  
+[  6] 250.00-260.00 sec  62.6 MBytes  52.5 Mbits/sec  0.377 ms  41023/86324 (48%)  
+[  6] 260.00-270.00 sec  62.6 MBytes  52.5 Mbits/sec  0.311 ms  41024/86327 (48%)  
+[  6] 270.00-280.00 sec  62.6 MBytes  52.5 Mbits/sec  0.392 ms  41024/86325 (48%)  
+[  6] 280.00-290.00 sec  62.6 MBytes  52.5 Mbits/sec  0.321 ms  41024/86327 (48%)  
+[  6] 290.00-300.00 sec  62.6 MBytes  52.5 Mbits/sec  0.290 ms  41025/86327 (48%)  
+[  6] 300.00-300.02 sec   112 KBytes  51.4 Mbits/sec  0.288 ms  69/148 (47%)  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  6]   0.00-300.02 sec  1.83 GBytes  52.5 Mbits/sec  0.288 ms  1230716/2589768 (48%)  receiver

@@ -1,0 +1,40 @@
+-----------------------------------------------------------
+Server listening on 5002
+-----------------------------------------------------------
+Accepted connection from 10.0.1.1, port 44510
+[  6] local 10.0.1.7 port 5002 connected to 10.0.1.1 port 10002
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  6]   0.00-10.00  sec  62.3 MBytes  52.3 Mbits/sec  0.338 ms  32249/77365 (42%)  
+[  6]  10.00-20.00  sec  62.5 MBytes  52.4 Mbits/sec  0.329 ms  32417/77693 (42%)  
+[  6]  20.00-30.00  sec  62.6 MBytes  52.5 Mbits/sec  0.319 ms  32392/77694 (42%)  
+[  6]  30.00-40.00  sec  62.6 MBytes  52.5 Mbits/sec  0.281 ms  32392/77694 (42%)  
+[  6]  40.00-50.00  sec  62.6 MBytes  52.5 Mbits/sec  0.325 ms  32391/77692 (42%)  
+[  6]  50.00-60.00  sec  62.5 MBytes  52.5 Mbits/sec  0.259 ms  32414/77693 (42%)  
+[  6]  60.00-70.00  sec  62.6 MBytes  52.5 Mbits/sec  0.284 ms  32389/77688 (42%)  
+[  6]  70.00-80.00  sec  62.6 MBytes  52.5 Mbits/sec  0.252 ms  32394/77699 (42%)  
+[  6]  80.00-90.00  sec  62.5 MBytes  52.5 Mbits/sec  0.300 ms  32416/77694 (42%)  
+[  6]  90.00-100.00 sec  62.6 MBytes  52.5 Mbits/sec  0.326 ms  32391/77693 (42%)  
+[  6] 100.00-110.00 sec  62.6 MBytes  52.5 Mbits/sec  0.368 ms  32391/77693 (42%)  
+[  6] 110.00-120.00 sec  62.6 MBytes  52.5 Mbits/sec  0.306 ms  32392/77694 (42%)  
+[  6] 120.00-130.00 sec  62.6 MBytes  52.5 Mbits/sec  0.307 ms  32392/77694 (42%)  
+[  6] 130.00-140.00 sec  62.6 MBytes  52.5 Mbits/sec  0.292 ms  32392/77693 (42%)  
+[  6] 140.00-150.00 sec  62.6 MBytes  52.5 Mbits/sec  0.270 ms  32391/77693 (42%)  
+[  6] 150.00-160.00 sec  62.5 MBytes  52.5 Mbits/sec  0.353 ms  32413/77694 (42%)  
+[  6] 160.00-170.00 sec  62.6 MBytes  52.5 Mbits/sec  0.323 ms  32391/77693 (42%)  
+[  6] 170.00-180.00 sec  62.6 MBytes  52.5 Mbits/sec  0.346 ms  32392/77693 (42%)  
+[  6] 180.00-190.00 sec  62.6 MBytes  52.5 Mbits/sec  0.356 ms  32392/77695 (42%)  
+[  6] 190.00-200.00 sec  62.5 MBytes  52.4 Mbits/sec  0.338 ms  32418/77692 (42%)  
+[  6] 200.00-210.00 sec  62.6 MBytes  52.5 Mbits/sec  0.310 ms  32392/77693 (42%)  
+[  6] 210.00-220.00 sec  62.6 MBytes  52.5 Mbits/sec  0.255 ms  32392/77694 (42%)  
+[  6] 220.00-230.00 sec  62.6 MBytes  52.5 Mbits/sec  0.211 ms  32392/77695 (42%)  
+[  6] 230.00-240.00 sec  56.9 MBytes  47.8 Mbits/sec  2.177 ms  30490/71716 (43%)  
+[  6] 240.00-250.00 sec  59.2 MBytes  49.6 Mbits/sec  0.296 ms  40823/83669 (49%)  
+[  6] 250.00-260.00 sec  62.6 MBytes  52.5 Mbits/sec  0.330 ms  32393/77694 (42%)  
+[  6] 260.00-270.00 sec  62.5 MBytes  52.4 Mbits/sec  0.326 ms  32420/77694 (42%)  
+[  6] 270.00-280.00 sec  62.6 MBytes  52.5 Mbits/sec  0.360 ms  32395/77697 (42%)  
+[  6] 280.00-290.00 sec  62.6 MBytes  52.5 Mbits/sec  0.344 ms  32391/77693 (42%)  
+[  6] 290.00-300.00 sec  62.6 MBytes  52.5 Mbits/sec  0.330 ms  32393/77694 (42%)  
+[  6] 300.00-300.04 sec   257 KBytes  51.9 Mbits/sec  0.283 ms  129/311 (41%)  
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Jitter    Lost/Total Datagrams
+[  6]   0.00-300.04 sec  1.82 GBytes  52.2 Mbits/sec  0.283 ms  978419/2330789 (42%)  receiver
